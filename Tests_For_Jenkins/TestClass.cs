@@ -11,6 +11,8 @@ namespace Tests_For_Jenkins
         [TestMethod]
         public void Test1()
         {
+            //Open Habr Page
+
             IWebDriver driver = new ChromeDriver();
 
             driver.Navigate().GoToUrl("http://habr.com/");
