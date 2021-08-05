@@ -11,8 +11,16 @@ C:\Users\AntonPC\OneDrive\Desktop\Tests_For_Jenkins\Tests_For_Jenkins\Tests_For_
 C:\Users\AntonPC\OneDrive\Desktop\Tests_For_Jenkins\Tests_For_Jenkins\Tests_For_Jenkins\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
 C:\Users\AntonPC\OneDrive\Desktop\Tests_For_Jenkins\Tests_For_Jenkins\Tests_For_Jenkins\bin\Debug\WebDriver.xml
 C:\Users\AntonPC\OneDrive\Desktop\Tests_For_Jenkins\Tests_For_Jenkins\Tests_For_Jenkins\bin\Debug\WebDriver.Support.xml
-C:\Users\AntonPC\OneDrive\Desktop\Tests_For_Jenkins\Tests_For_Jenkins\Tests_For_Jenkins\obj\Debug\Tests_For_Jenkins.csprojAssemblyReference.cache
 C:\Users\AntonPC\OneDrive\Desktop\Tests_For_Jenkins\Tests_For_Jenkins\Tests_For_Jenkins\obj\Debug\Tests_For_Jenkins.csproj.CoreCompileInputs.cache
 C:\Users\AntonPC\OneDrive\Desktop\Tests_For_Jenkins\Tests_For_Jenkins\Tests_For_Jenkins\obj\Debug\Tests_For_Jenkins.csproj.CopyComplete
 C:\Users\AntonPC\OneDrive\Desktop\Tests_For_Jenkins\Tests_For_Jenkins\Tests_For_Jenkins\obj\Debug\Tests_For_Jenkins.dll
 C:\Users\AntonPC\OneDrive\Desktop\Tests_For_Jenkins\Tests_For_Jenkins\Tests_For_Jenkins\obj\Debug\Tests_For_Jenkins.pdb
+C:\Users\AntonPC\OneDrive\Desktop\Tests_For_Jenkins\Tests_For_Jenkins\Tests_For_Jenkins\obj\Debug\Tests_For_Jenkins.csproj.AssemblyReference.cache
+C:\Users\AntonPC\OneDrive\Desktop\Tests_For_Jenkins\Tests_For_Jenkins\Tests_For_Jenkins\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\AntonPC\OneDrive\Desktop\Tests_For_Jenkins\Tests_For_Jenkins\Tests_For_Jenkins\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\AntonPC\OneDrive\Desktop\Tests_For_Jenkins\Tests_For_Jenkins\Tests_For_Jenkins\bin\Debug\nunit.engine.dll
+C:\Users\AntonPC\OneDrive\Desktop\Tests_For_Jenkins\Tests_For_Jenkins\Tests_For_Jenkins\bin\Debug\nunit.engine.api.dll
+C:\Users\AntonPC\OneDrive\Desktop\Tests_For_Jenkins\Tests_For_Jenkins\Tests_For_Jenkins\bin\Debug\nunit.engine.core.dll
+C:\Users\AntonPC\OneDrive\Desktop\Tests_For_Jenkins\Tests_For_Jenkins\Tests_For_Jenkins\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\AntonPC\OneDrive\Desktop\Tests_For_Jenkins\Tests_For_Jenkins\Tests_For_Jenkins\bin\Debug\nunit.framework.dll
+C:\Users\AntonPC\OneDrive\Desktop\Tests_For_Jenkins\Tests_For_Jenkins\Tests_For_Jenkins\bin\Debug\nunit.framework.xml

@@ -1,14 +1,14 @@
-﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿
+using NUnit.Framework;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
+using Assert = NUnit.Framework.Assert;
 
 namespace Tests_For_Jenkins
 {
-    [TestClass]
     public class TestClass
     {
-        [TestMethod]
+        [Test]
         public void Test1()
         {
             //Open Habr Page
