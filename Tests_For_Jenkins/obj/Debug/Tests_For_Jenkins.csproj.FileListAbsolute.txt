@@ -24,3 +24,4 @@ C:\Users\AntonPC\OneDrive\Desktop\Tests_For_Jenkins\Tests_For_Jenkins\Tests_For_
 C:\Users\AntonPC\OneDrive\Desktop\Tests_For_Jenkins\Tests_For_Jenkins\Tests_For_Jenkins\bin\Debug\testcentric.engine.metadata.dll
 C:\Users\AntonPC\OneDrive\Desktop\Tests_For_Jenkins\Tests_For_Jenkins\Tests_For_Jenkins\bin\Debug\nunit.framework.dll
 C:\Users\AntonPC\OneDrive\Desktop\Tests_For_Jenkins\Tests_For_Jenkins\Tests_For_Jenkins\bin\Debug\nunit.framework.xml
+C:\Users\AntonPC\OneDrive\Desktop\Tests_For_Jenkins\Tests_For_Jenkins\Tests_For_Jenkins\bin\Debug\wires-0.6.0-win.exe
